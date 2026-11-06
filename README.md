@@ -1,9 +1,7 @@
 <p align="center">
   <a href="https://smp-prototypen.de">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="smp-logo-weiss.svg">
-      <img src="smp-logo.svg" alt="SMP Schüßler Modell- & Prototypenbau" width="260">
-    </picture>
+    <img src="smp-logo.svg#gh-light-mode-only" alt="SMP Schüßler Modell- & Prototypenbau" width="260">
+    <img src="smp-logo-weiss.svg#gh-dark-mode-only" alt="SMP Schüßler Modell- & Prototypenbau" width="260">
   </a>
 </p>
 
